@@ -62,5 +62,31 @@
 			"content": "Answer"
 		}
 	],
-	"expand": false
+	"expand": false,
+	"column": [
+		{
+			"accordion": {
+				"title": "Question",
+				"content": "Answer"
+			}
+		},
+		{
+			"accordion": {
+				"title": "Question",
+				"content": "Answer"
+			}
+		},
+		{
+			"accordion": {
+				"title": "Question",
+				"content": "Answer"
+			}
+		},
+		{
+			"accordion": {
+				"title": "wx<c<wc<wcxw",
+				"content": "Answer"
+			}
+		}
+	]
 }
