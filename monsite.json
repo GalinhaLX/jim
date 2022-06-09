@@ -39,36 +39,10 @@
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
-	"accordion": [
-		{
-			"title": "Question",
-			"content": "Answer"
-		},
-		{
-			"title": "Question",
-			"content": "Answer"
-		},
-		{
-			"title": "Question",
-			"content": "Answer"
-		},
-		{
-			"title": "Question",
-			"content": "Answer"
-		},
-		{
-			"title": "Question",
-			"content": "Answer"
-		}
-	],
 	"expand": true,
 	"column": [
 		{
-			"title": "Questcw< w<xc wcx <wcx <c<x <wc < ion",
-			"content": "Answer"
-		},
-		{
-			"title": "Question<wc <c <wcx",
+			"title": "Question",
 			"content": "Answer"
 		}
 	]
