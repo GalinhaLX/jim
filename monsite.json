@@ -1,14 +1,11 @@
 {
-	"hue": 198,
+	"hue": 20,
 	"min_count": "1",
 	"max_count": 3,
 	"minsocial_count": "1",
 	"maxsocial_count": 2,
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"item": [
-		{
-			"menu": "sdfxd"
-		},
 		{
 			"menu": "Home"
 		}
@@ -18,18 +15,13 @@
 			"profile": "https://www.instagram.com/username/"
 		}
 	],
-	"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/jim@623d5222e5284569d7c8ac46e2e6368f7dbc959d/images/kv.jpeg",
+	"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/jim@2f0b3b9a0f82e2b99318758abfe8628b53517422/images/pasted-image-1654819037964.png",
 	"title": "Get 10% off side-wide when you spent $30 with code: new",
 	"subtitle": "Discover more products and inspiration.",
 	"label": "Explore",
 	"product_title": "Pourquoi vous allez aimer nos produits",
 	"product_subtitle": "Commencez à vendre vos produits dès à présent",
 	"product_card": [
-		{
-			"product_card_title": "No programming",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Explore"
-		},
 		{
 			"product_card_title": "No programming",
 			"product_card_subtitle": "A child can use it!",
@@ -45,33 +37,13 @@
 			"team_member_name": "John DOE",
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-		},
-		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-			"team_member_name": "John DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a about nature and sport"
-		},
-		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-			"team_member_name": "John DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
 	"expand": false,
 	"column": [
 		{
-			"title": "Questiondsfdsf d",
-			"content": "Answer"
-		},
-		{
 			"title": "Question",
 			"content": "Answer"
-		},
-		{
-			"title": "Question 2",
-			"content": "Answer 2"
 		}
 	]
 }
