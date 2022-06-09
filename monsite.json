@@ -1,5 +1,5 @@
 {
-	"isMode": true,
+	"isMode": false,
 	"hue": "20",
 	"min_count": "1",
 	"max_count": 3,
@@ -41,6 +41,22 @@
 		}
 	],
 	"accordion": [
+		{
+			"title": "Question",
+			"content": "Answer"
+		},
+		{
+			"title": "Question",
+			"content": "Answer"
+		},
+		{
+			"title": "Question",
+			"content": "Answer"
+		},
+		{
+			"title": "Question",
+			"content": "Answer"
+		},
 		{
 			"title": "Question",
 			"content": "Answer"
