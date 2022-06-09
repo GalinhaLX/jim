@@ -39,19 +39,11 @@
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
-	"expand": true,
+	"expand": false,
 	"column": [
 		{
-			"title": "Question dvdv wxc vcwx",
-			"content": "Answer xc wv"
-		},
-		{
-			"title": "Question x wQuestio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc nxc xcv ",
-			"content": "AnswerQuestio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc n"
-		},
-		{
-			"title": "Questio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc n",
-			"content": "AnswerQuestio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc nQuestio xc <cxc xcw xc wxc n"
+			"title": "Question",
+			"content": "Answer"
 		}
 	]
 }
