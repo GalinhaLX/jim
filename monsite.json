@@ -64,27 +64,15 @@
 	"expand": true,
 	"column": [
 		{
-			"accordion": {
-				"title": "Question",
-				"content": "Answer"
-			},
-			"title": "Quedsfgfdsg sdfgdf xwcv wxv vxv xcw xcwv wxcv sgdfgdfsgdfgsdwvxcv wvcx fgdfsg stion",
+			"title": "Question sqdf qdsf qd fqf qdsf q qvvxcv cwvw w wv ",
 			"content": "Answer"
 		},
 		{
-			"accordion": {
-				"title": "Question",
-				"content": "Answer"
-			},
-			"title": "Quevc xwcvxwc vwxcv wxv xwcv wcv wv w stion",
+			"title": "Question",
 			"content": "Answer"
 		},
 		{
-			"accordion": {
-				"title": "wx<c<wc<wcxw",
-				"content": "Answer qsdsqdqs"
-			},
-			"title": "Questixcv xv v on",
+			"title": "Question",
 			"content": "Answer"
 		}
 	]
