@@ -64,6 +64,10 @@
 	"expand": true,
 	"column": [
 		{
+			"title": "Question",
+			"content": "Answer"
+		},
+		{
 			"accordion": {
 				"title": "Question",
 				"content": "Answer"
