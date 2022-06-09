@@ -62,7 +62,7 @@
 			"content": "Answer"
 		}
 	],
-	"expand": true,
+	"expand": false,
 	"column": [
 		{
 			"accordion": {
