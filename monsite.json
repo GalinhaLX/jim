@@ -40,5 +40,10 @@
 		}
 	],
 	"expand": true,
-	"column": []
+	"column": [
+		{
+			"title": "Question",
+			"content": "Answer"
+		}
+	]
 }
