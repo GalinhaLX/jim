@@ -39,8 +39,12 @@
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
-	"expand": false,
+	"expand": true,
 	"column": [
+		{
+			"title": "Question",
+			"content": "Answer"
+		},
 		{
 			"title": "Question",
 			"content": "Answer"
