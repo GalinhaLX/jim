@@ -62,7 +62,7 @@
 			"content": "Answer"
 		}
 	],
-	"expand": false,
+	"expand": true,
 	"column": [
 		{
 			"accordion": {
@@ -85,7 +85,7 @@
 		{
 			"accordion": {
 				"title": "wx<c<wc<wcxw",
-				"content": "Answer"
+				"content": "Answer qsdsqdqs"
 			}
 		}
 	]
