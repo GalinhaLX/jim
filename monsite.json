@@ -1,5 +1,5 @@
 {
-	"isMode": true,
+	"isMode": false,
 	"hue": "20",
 	"min_count": "1",
 	"max_count": 3,
@@ -50,5 +50,6 @@
 			"title": "Q2",
 			"content": "answer 2"
 		}
-	]
+	],
+	"expand": false
 }
