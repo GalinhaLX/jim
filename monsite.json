@@ -40,11 +40,14 @@
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
-	"expend": false,
+	"expend": true,
 	"accordion": [
 		{
-			"title": "dsqfdsf"
+			"title": "dsqfdsf",
+			"content": "qsdfqsdf"
 		},
-		{}
+		{
+			"title": "my question 2"
+		}
 	]
 }
