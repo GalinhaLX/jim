@@ -43,8 +43,12 @@
 	"expend": true,
 	"accordion": [
 		{
-			"title": "dsqfdsf",
+			"title": "Question 1",
 			"content": "qsdfqsdf"
+		},
+		{
+			"title": "Q2",
+			"content": "answer 2"
 		}
 	]
 }
