@@ -45,14 +45,6 @@
 		{
 			"title": "Question 1",
 			"content": "qsdfqsdf"
-		},
-		{
-			"title": "Question 2",
-			"content": "Answer 2"
-		},
-		{
-			"title": "Question 3",
-			"content": "Answer"
 		}
 	],
 	"expand": false
