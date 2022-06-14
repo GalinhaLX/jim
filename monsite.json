@@ -7,10 +7,10 @@
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"item": [
 		{
-			"menu": "azezae"
+			"menu": "Home"
 		},
 		{
-			"menu": "Home"
+			"menu": "azezae"
 		}
 	],
 	"social": [
