@@ -72,5 +72,6 @@
 			"title": "Question",
 			"content": "Answer"
 		}
-	]
+	],
+	"isMode": false
 }
