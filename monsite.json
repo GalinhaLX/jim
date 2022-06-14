@@ -1,11 +1,17 @@
 {
-	"hue": 20,
+	"hue": 188,
 	"min_count": "1",
 	"max_count": 3,
 	"minsocial_count": "1",
 	"maxsocial_count": 2,
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"item": [
+		{
+			"menu": "Home"
+		},
+		{
+			"menu": "azezae"
+		},
 		{
 			"menu": "Home"
 		}
@@ -15,13 +21,28 @@
 			"profile": "https://www.instagram.com/username/"
 		}
 	],
-	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-	"title": "Get 10% off side-wide when you spent $30 with code: new",
+	"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/jim@e84dbd44463b02654fdc550be085f302bda00387/images/2bc7fb16-ddda-43ff-a8c9-be87e750bdd2",
+	"title": "Super promotion",
 	"subtitle": "Discover more products and inspiration.",
 	"label": "Explore",
 	"product_title": "Pourquoi vous allez aimer nos produits",
 	"product_subtitle": "Commencez à vendre vos produits dès à présent",
 	"product_card": [
+		{
+			"product_card_title": "No programming",
+			"product_card_subtitle": "A child can use it!",
+			"product_action": "Explore"
+		},
+		{
+			"product_card_title": "No programming",
+			"product_card_subtitle": "A child can use it!",
+			"product_action": "Explore"
+		},
+		{
+			"product_card_title": "No programming",
+			"product_card_subtitle": "A child can use it!",
+			"product_action": "Explore"
+		},
 		{
 			"product_card_title": "No programming",
 			"product_card_subtitle": "A child can use it!",
@@ -37,6 +58,25 @@
 			"team_member_name": "John DOE",
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
+		},
+		{
+			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
+			"team_member_name": "John DOE",
+			"team_member_position": "CEO",
+			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
+		},
+		{
+			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
+			"team_member_name": "John DOE",
+			"team_member_position": "CEO",
+			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
+		}
+	],
+	"expand": true,
+	"column": [
+		{
+			"title": "Question",
+			"content": "Answer"
 		}
 	],
 	"isMode": false
