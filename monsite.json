@@ -11,9 +11,6 @@
 		},
 		{
 			"menu": "Home"
-		},
-		{
-			"menu": "Home"
 		}
 	],
 	"social": [
@@ -81,6 +78,5 @@
 			"title": "Question",
 			"content": "Answer"
 		}
-	],
-	"isMode": false
+	]
 }
