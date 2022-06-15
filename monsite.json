@@ -15,7 +15,7 @@
 			"profile": "https://www.instagram.com/username/"
 		}
 	],
-	"image": "/assets/svg/upimg.svg",
+	"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/jim@bedf30c11fb92564192834432bd9579b046d265e/images/upimg.svg",
 	"title": "Get 10% off side-wide when you spent $30 with code: new",
 	"subtitle": "Discover more products and inspiration.",
 	"label": "Explore",
