@@ -1,0 +1,28 @@
+{
+	"classes": [
+		{
+			"class_code": "is-size-1",
+			"description": "Text is XXL "
+		},
+		{
+			"class_code": "is-size-2",
+			"description": "Text is XL"
+		},
+		{
+			"class_code": "is-size-3",
+			"description": "Text is L"
+		},
+		{
+			"class_code": "is-size-4",
+			"description": "Text is M"
+		},
+		{
+			"class_code": "is-size-5",
+			"description": "Text is S"
+		},
+		{
+			"class_code": "is-size-6",
+			"description": "Text is XS"
+		}
+	]
+}
