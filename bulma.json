@@ -1,6 +1,9 @@
 {
 	"classes": [
 		{
+			"description": "-- Text Size:"
+		},
+		{
 			"class_code": "is-size-1",
 			"description": "Text is XXL "
 		},
