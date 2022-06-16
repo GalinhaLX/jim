@@ -26,6 +26,17 @@
 		{
 			"class_code": "is-size-6",
 			"description": "Text is XS"
+		},
+		{
+			"description": "-- Text Color"
+		},
+		{
+			"class_code": "has-text-white-bis",
+			"description": "Text is white"
+		},
+		{
+			"class_code": "has-text-grey",
+			"description": "Text is grey"
 		}
 	]
 }
