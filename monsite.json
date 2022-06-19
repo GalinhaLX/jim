@@ -1,5 +1,5 @@
 {
-	"hue": 20,
+	"hue": 76,
 	"min_count": "1",
 	"max_count": 3,
 	"minsocial_count": "1",
@@ -38,5 +38,12 @@
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
-	"isMode": false
+	"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/jim@2f0b3b9a0f82e2b99318758abfe8628b53517422/images/pasted-image-1654819037964.png",
+	"expand": false,
+	"column": [
+		{
+			"title": "Question",
+			"content": "Answer"
+		}
+	]
 }
