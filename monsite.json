@@ -19,6 +19,9 @@
 	"social": [
 		{
 			"profile": "https://www.twitter.com/username/"
+		},
+		{
+			"profile": "https://www.instagram.com/username/"
 		}
 	],
 	"title": "Get 10% off side-wide when you spent $30 with code: new",
