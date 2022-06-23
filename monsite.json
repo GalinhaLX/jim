@@ -61,7 +61,8 @@
 	"expend": true,
 	"accordion": [
 		{
-			"faq_title": "dsfsdf"
+			"faq_title": "dsfsdf",
+			"faq_content": "dsfghjk"
 		},
 		{
 			"faq_title": "sdfsdf",
