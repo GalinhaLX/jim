@@ -57,5 +57,15 @@
 			"title": "Question",
 			"content": "Answer"
 		}
+	],
+	"expend": false,
+	"accordion": [
+		{
+			"faq_title": "dsfsdf"
+		},
+		{
+			"faq_title": "sdfsdf",
+			"faq_content": "sdf"
+		}
 	]
 }
