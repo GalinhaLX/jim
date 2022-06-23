@@ -51,14 +51,14 @@
 		}
 	],
 	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-	"expand": false,
+	"expand": true,
 	"column": [
 		{
 			"title": "Question",
 			"content": "Answer"
 		}
 	],
-	"expend": false,
+	"expend": true,
 	"accordion": [
 		{
 			"faq_title": "dsfsdf"
