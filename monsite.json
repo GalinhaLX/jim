@@ -61,12 +61,12 @@
 	"expend": true,
 	"accordion": [
 		{
-			"faq_title": "dsfsdf",
-			"faq_content": "dsfghjk sdvds wxcv"
-		},
-		{
 			"faq_title": "sdfsdf",
 			"faq_content": "sdf"
+		},
+		{
+			"faq_title": "dsfsdf",
+			"faq_content": "dsfghjk sdvds wxcv"
 		}
 	]
 }
