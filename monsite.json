@@ -24,7 +24,7 @@
 			"profile": "https://www.instagram.com/username/"
 		}
 	],
-	"title": "Recevez 10% sur fsgfd fg ",
+	"title": "Recevez 10% sur fsgfd fg",
 	"label": "Explore",
 	"product_title": "Pourquoi vous allez aimer nos produits",
 	"product_subtitle": "Commencez à vendre vos produits dès à présent",
@@ -59,7 +59,7 @@
 		}
 	],
 	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-	"expand": true,
+	"expand": false,
 	"column": [
 		{
 			"title": "Question",
@@ -76,6 +76,10 @@
 		{
 			"title": "Question",
 			"content": "Answer"
+		},
+		{
+			"title": "Questisqdfsqdfdsfon",
+			"content": "Answqdsfdsfsqder"
 		}
 	],
 	"expend": true,
