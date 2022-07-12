@@ -7,13 +7,13 @@
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"item": [
 		{
+			"menu": "Home"
+		},
+		{
+			"menu": "Home"
+		},
+		{
 			"menu": "Products"
-		},
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Home"
 		}
 	],
 	"social": [
