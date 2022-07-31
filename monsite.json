@@ -7,10 +7,10 @@
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"item": [
 		{
-			"menu": "iiiiyyyy"
+			"menu": "Home"
 		},
 		{
-			"menu": "Home"
+			"menu": "iiiiyyyy"
 		}
 	],
 	"social": [
